@@ -1,0 +1,3 @@
+[submodule "src/child-repo"]
+	path = src/child-repo
+	url = git@github.com:ridoansaleh/child-repo.git
